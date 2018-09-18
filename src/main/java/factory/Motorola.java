@@ -1,6 +1,6 @@
 package factory;
 
-public class Motorola implements MobileFactory {
+public class Motorola implements Mobile {
 
     private String name;
     private long price;

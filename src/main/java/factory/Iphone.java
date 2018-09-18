@@ -1,6 +1,6 @@
 package factory;
 
-public class Iphone implements MobileFactory {
+public class Iphone implements Mobile {
 
     private String name;
     private long price;
